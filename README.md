@@ -1,4 +1,4 @@
-# ML_Coursework_ZTM
+# Machine_Learning_Hands-On_ZTM
 
 content:
 pandas practice
