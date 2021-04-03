@@ -15,6 +15,7 @@
 ## Matplotlib in Detail [Matplotlib.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/matplotlib.ipynb)
 ## Scikit_Learn in Detail [Scikit_Learn.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/scikit-learn(sklearn).ipynb)
 
-## This Repository is coursework of my online course **Complete Machine Learning and Data Science Bootcamp 2021: Zero to Mastery Academy**
-
+## This Repository is coursework of my online course 
+[Complete Machine Learning and Data Science Bootcamp 2021: Zero to Mastery Academy](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
+Course Instructors (Udemy rating: 4.7😎): [Daniel Bourke](https://www.udemy.com/user/daniel-bourke-52/) [Andrie Negoie](https://www.udemy.com/user/andrei-neagoie/)
 ![image](https://user-images.githubusercontent.com/37009367/113480510-2f161d00-94b2-11eb-9f4e-1a3772314925.png)
