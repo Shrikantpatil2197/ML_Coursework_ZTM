@@ -17,7 +17,7 @@
 ## Scikit_Learn in Detail [Scikit_Learn.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/scikit-learn(sklearn).ipynb)
 
 ## Natural Language Processing in Python
-## [Intro_to_NLP.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/NLP_hands_on/python_notebooks/Intro_to_NLP.ipynb)
+## 1. [Intro_to_NLP.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/NLP_hands_on/python_notebooks/Intro_to_NLP.ipynb)
 **Content:**
 1. **Regular Expressions and word Tokenization**
 2.  **Simple Topic Identification**
