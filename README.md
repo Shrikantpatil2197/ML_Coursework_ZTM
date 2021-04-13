@@ -18,6 +18,12 @@
 
 ## Natural Language Processing in Python
 ## [Intro_to_NLP.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/NLP_hands_on/python_notebooks/Intro_to_NLP.ipynb)
+**Content:**
+1. **Regular Expressions and word Tokenization**
+2.  **Simple Topic Identification**
+3.  **Named-entity recognition**
+4.  **Building a "Fake News" classifier**
+
 
 ## This Repository is coursework of some of my online courses mentioned follow:
 [Complete Machine Learning and Data Science Bootcamp 2021: Zero to Mastery Academy](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
