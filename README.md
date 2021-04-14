@@ -16,11 +16,13 @@
 ## Matplotlib in Detail [Matplotlib.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/matplotlib.ipynb)
 ## Scikit_Learn in Detail [Scikit_Learn.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/All_Notebooks/scikit-learn(sklearn).ipynb)
 
-[Complete Machine Learning and Data Science Bootcamp 2021: Zero to Mastery Academy](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
+**Thanks to the course:** [Complete Machine Learning and Data Science Bootcamp 2021: Zero to Mastery Academy](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
 
 ![image](https://user-images.githubusercontent.com/37009367/113480510-2f161d00-94b2-11eb-9f4e-1a3772314925.png)
 
+
 ## Natural Language Processing in Python
+
 ## 1. [Intro_to_NLP.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/NLP_hands_on/python_notebooks/Intro_to_NLP.ipynb)
 **Content:**
 1. **Regular Expressions and word Tokenization**
@@ -28,7 +30,8 @@
 3.  **Named-entity recognition**
 4.  **Building a "Fake News" classifier**
 
-[Introduction to natural language processing in python][https://learn.datacamp.com/courses/introduction-to-natural-language-processing-in-python]
+**Thanks to the course:**[Introduction to natural language processing in python](https://learn.datacamp.com/courses/introduction-to-natural-language-processing-in-python)
+
 ![image](https://user-images.githubusercontent.com/37009367/114551627-49ee4b80-9c81-11eb-90d0-8944ca925414.png)
 
 ## 2. [Feature_Engineering_for_NLP.ipynb](https://github.com/Shrikantpatil2197/Machine_Learning_Hands-On/blob/main/NLP_hands_on/python_notebooks/Feature_Engineering_for_NLP.ipynb)
@@ -38,7 +41,8 @@
 3.  **N-Gram models**
 4.  **TF-IDF and similarity scores**
 
-[Feature Engineering for NLP in Python](https://learn.datacamp.com/courses/feature-engineering-for-nlp-in-python)
+**Thanks to the course:**[Feature Engineering for NLP in Python](https://learn.datacamp.com/courses/feature-engineering-for-nlp-in-python)
+
 ![image](https://user-images.githubusercontent.com/37009367/114704077-c6496300-9d43-11eb-8371-aa86e403b4d3.png)
 
 
